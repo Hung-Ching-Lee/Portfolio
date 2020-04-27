@@ -1,0 +1,7 @@
+檢視： raspistill -vf -p 0,0,1020,1000 -t 0 -br 70
+
+mjpg:cd mjpg-streamer-master/mjpg-streamer-experimental
+/usr/local/bin/mjpg_streamer -i "/usr/local/lib/mjpg-streamer/input_uvc.so -n -rot 180 -r 700x700" -o "/usr/local/lib/mjpg-streamer/output_http.so -p 8080 -w /usr/local/share/mjpg-streamer/www"
+
+
+網站:https://www.ncnynl.com/archives/201607/267.html
