@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26dd82bc-183c-471c-9c38-f8213c7a679d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/傳統線性回歸/.ipynb_checkpoints/建模_20群_ML_OneVsRestClassifier-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/傳統線性回歸/.ipynb_checkpoints/建模_20群_ML_RidgeClassifier-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/傳統線性回歸/.ipynb_checkpoints/建模_20群_ML_RidgeClassifierCV-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/傳統線性回歸/.ipynb_checkpoints/建模_20群_ML_SGDClassifier-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/傳統線性回歸/.ipynb_checkpoints/羅吉斯-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/傳統線性回歸/建模_20群_ML_OneVsRestClassifier.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/傳統線性回歸/建模_20群_ML_PassiveAggressiveClassifier.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/傳統線性回歸/建模_20群_ML_RidgeClassifier.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/傳統線性回歸/建模_20群_ML_RidgeClassifierCV.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/傳統線性回歸/建模_20群_ML_SGDClassifier.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/傳統線性回歸/羅吉斯.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/深度學習/預測信用卡額度/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/深度學習/預測信用卡額度/data/斷詞與和卡額度_20群.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/深度學習/預測信用卡額度/data/補值data/補值_KNN_Y分群.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/深度學習/預測信用卡額度/data/補值data/補值_KNN_Y為數值.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/深度學習/預測信用卡額度/data/補值data/補值_cart_Y分群.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/深度學習/預測信用卡額度/data/補值data/補值_cart_Y為數值.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/深度學習/預測信用卡額度/data/補值data/補值_cart_Y為數值_測試.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/深度學習/預測信用卡額度/data/補值data/補值_logreg_Y分群.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/深度學習/預測信用卡額度/data/補值data/補值_logreg_Y為數值.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/深度學習/預測信用卡額度/data/補值data/補值_mice_Wald_Y分群.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/深度學習/預測信用卡額度/data/補值data/補值_mice_Wald_Y為數值.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/深度學習/預測信用卡額度/data/補值data/補值_pmm_Y分群.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/深度學習/預測信用卡額度/data/補值data/補值_pmm_Y為數值.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/深度學習/預測信用卡額度/data/補值data/補值_rf_Y分群.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/深度學習/預測信用卡額度/data/補值data/補值_rf_Y分群2.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/深度學習/預測信用卡額度/data/補值data/補值_rf_Y分群20.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/深度學習/預測信用卡額度/data/補值data/補值_rf_Y為數值.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/深度學習/預測信用卡額度/data/補值data/補值_rf_Y為數值_去除100萬以上.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/深度學習/預測信用卡額度/共線性.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/深度學習/預測信用卡額度/建模_20群_類神經 _CNN.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/深度學習/預測信用卡額度/建模_20群_類神經 _GRU.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/深度學習/預測信用卡額度/建模_20群_類神經 _LSTM.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/深度學習/預測信用卡額度/建模_20群_類神經 _RNN.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/深度學習/預測信用卡額度/建模_20群_類神經 _函數式.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/深度學習/預測信用卡額度/建模_20群_類神經 _雙向LSTM.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/深度學習/預測信用卡額度/建模_數值_不去除極端值.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/深度學習/預測信用卡額度/建模_數值_去除極端值.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/深度學習/預測信用卡額度/建模_群.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/深度學習/預測信用卡額度/建模_群_類神經.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/深度學習/預測信用卡額度/文章向量預測額度 Embeddings_有順序.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/深度學習/預測信用卡額度/文章向量預測額度 Embeddings_無順序.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/深度學習/預測信用卡額度/文章向量預測額度 onehot.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/深度學習/預測信用卡額度/類神經建模_最終.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/預測額度/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/預測額度/data/斷詞與和卡額度_20群.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/預測額度/data/補值data/補值_KNN_Y分群.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/預測額度/data/補值data/補值_KNN_Y為數值.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/預測額度/data/補值data/補值_cart_Y分群.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/預測額度/data/補值data/補值_cart_Y為數值.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/預測額度/data/補值data/補值_cart_Y為數值_測試.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/預測額度/data/補值data/補值_logreg_Y分群.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/預測額度/data/補值data/補值_logreg_Y為數值.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/預測額度/data/補值data/補值_mice_Wald_Y分群.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/預測額度/data/補值data/補值_mice_Wald_Y為數值.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/預測額度/data/補值data/補值_pmm_Y分群.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/預測額度/data/補值data/補值_pmm_Y為數值.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/預測額度/data/補值data/補值_rf_Y分群.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/預測額度/data/補值data/補值_rf_Y分群2.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/預測額度/data/補值data/補值_rf_Y分群20.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/預測額度/data/補值data/補值_rf_Y為數值.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/預測額度/data/補值data/補值_rf_Y為數值_去除100萬以上.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/預測額度/建模_20群_ML_AdaBoost.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/預測額度/建模_20群_ML_BaggingClassifier.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/預測額度/建模_20群_ML_BernoulliNB.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/預測額度/建模_20群_ML_DecisionTreeClassifier.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/預測額度/建模_20群_ML_ExtraTreeClassifier.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/預測額度/建模_20群_ML_ExtraTreesClassifier.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/預測額度/建模_20群_ML_GBM.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/預測額度/建模_20群_ML_GaussianProcessClassifier.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/預測額度/建模_20群_ML_KNN.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/預測額度/建模_20群_ML_LDA.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/預測額度/建模_20群_ML_MultiOutputClassifier.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/預測額度/建模_20群_ML_OneVsOneClassifier.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/預測額度/建模_20群_ML_OneVsRestClassifier.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/預測額度/建模_20群_ML_OutputCodeClassifier.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/預測額度/建模_20群_ML_SVM .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/預測額度/建模_20群_ML_SVM.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/預測額度/建模_20群_ML_XGBoost.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/預測額度/建模_20群_ML_隨機森林.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/預測額度/建模_SVM.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/預測額度/建模_XGBoost.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/預測額度/建模_隨機森林.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/預測額度/投票2.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/預測額度/額度分群20群_捕值(先補植在分群).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/預處理/填補缺失值.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/預處理/補值2.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/預處理/額度分群.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/預處理/額度分群20群_捕值(先補植在分群).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/食譜分群/data/123.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/食譜分群/data/8DDDDDDDDD.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/食譜分群/data/8DDDDDDDDD.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/食譜分群/data/8DDDDDDDDD補值_rf_Y為數值2.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/食譜分群/data/去除為0數值.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/食譜分群/data/食材_clean_data.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/食譜分群/食材建模1_hierarchical-clustering_初版.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/食譜分群/食材建模2_hierarchical-clustering_解決共線性問題.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/機器學習/食譜分群/食材建模_資料清洗與補值.ipynb" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1d84c9NEsvDf5JQV6U9WkfNDAXS" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26dd82bc-183c-471c-9c38-f8213c7a679d" name="Default Changelist" comment="" />
+      <created>1591793463472</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591793463472</updated>
+    </task>
+    <servers />
+  </component>
+</project>
