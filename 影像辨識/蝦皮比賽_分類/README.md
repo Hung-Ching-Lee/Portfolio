@@ -1,12 +1,17 @@
 # 影像分類
 
-觀察樣本
+## 觀察樣本,可以看到,每個類別樣本數不盡相同,因此先簡單訓練模型,觀察樣本較少的類別是否分錯比較多
 
 
-:
+![image](https://github.com/Hung-Ching-Lee/Portfolio/blob/master/%E5%BD%B1%E5%83%8F%E8%BE%A8%E8%AD%98/%E8%9D%A6%E7%9A%AE%E6%AF%94%E8%B3%BD_%E5%88%86%E9%A1%9E/%E6%A8%A3%E6%9C%AC%E8%A7%80%E5%AF%9F.png)
 
-![image](https://github.com/Hung-Ching-Lee/Portfolio/blob/master/IOT/%E9%81%A0%E7%AB%AF%E9%81%99%E6%8E%A7%E9%80%97%E8%B2%93/%E9%81%A0%E7%AB%AF%E9%80%97%E8%B2%93.jpg)
+## 看來來似乎還好,倒是相似的類別機器較容易分錯,例如:窄褲與牛仔褲
 
-雙軸雲台相機:
+![image](https://github.com/Hung-Ching-Lee/Portfolio/blob/master/%E5%BD%B1%E5%83%8F%E8%BE%A8%E8%AD%98/%E8%9D%A6%E7%9A%AE%E6%AF%94%E8%B3%BD_%E5%88%86%E9%A1%9E/confusion_matrix-Copy1.png)
 
-![image](https://github.com/Hung-Ching-Lee/Portfolio/blob/master/IOT/%E9%81%A0%E7%AB%AF%E9%81%99%E6%8E%A7%E9%80%97%E8%B2%93/%E9%9B%B2%E5%8F%B0.png)
+## 因單模型效果不佳,因此嘗試簡單的模型共識算法,將各個模型對於各類別給出的機率值給予相等權重的平均
+
+![image](https://github.com/Hung-Ching-Lee/Portfolio/blob/master/%E5%BD%B1%E5%83%8F%E8%BE%A8%E8%AD%98/%E8%9D%A6%E7%9A%AE%E6%AF%94%E8%B3%BD_%E5%88%86%E9%A1%9E/4%E6%A8%A1%E5%9E%8B.png)
+
+## 可以看到,能夠得到較為穩定的結果
+![image](https://github.com/Hung-Ching-Lee/Portfolio/blob/master/%E5%BD%B1%E5%83%8F%E8%BE%A8%E8%AD%98/%E8%9D%A6%E7%9A%AE%E6%AF%94%E8%B3%BD_%E5%88%86%E9%A1%9E/%E8%A7%80%E5%AF%9F%E4%B8%8D%E5%90%8C%E6%A8%A1%E5%9E%8B%E9%A0%90%E6%B8%AC%E7%B5%90%E6%9E%9C.png)
