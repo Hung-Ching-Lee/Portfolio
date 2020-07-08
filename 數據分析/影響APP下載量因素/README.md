@@ -35,7 +35,7 @@
 可以看到,在配對之前,大容量的APP平均下載量為7045,高於小容量的4158  
 在配對之後,大容量的APP平均下載量為7045,低於小容量的176667  
 這說明在其他條件不變下,APP大小愈小愈能得到高的下載次數
-![image](https://github.com/Hung-Ching-Lee/Portfolio/blob/master/%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90/%E5%BD%B1%E9%9F%BFAPP%E4%B8%8B%E8%BC%89%E9%87%8F%E5%9B%A0%E7%B4%A0/%E8%BF%B4%E6%AD%B8%20-%20%E8%A4%87%E8%A3%BD.png)
+![image](https://github.com/Hung-Ching-Lee/Portfolio/blob/master/%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90/%E5%BD%B1%E9%9F%BFAPP%E4%B8%8B%E8%BC%89%E9%87%8F%E5%9B%A0%E7%B4%A0/PSM.png)
   
   
   
